@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "True Believer",
+  "base_artist": "Avicii",
+  "createdAt": "2025-12-15T10:37:06.491576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Ultravox",
+      "has_synced": false,
+      "path": "select/01_True_Believer_Ultravox.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/02_True_Believer_Testament.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Aimee Mann",
+      "has_synced": true,
+      "path": "select/03_True_Believer_Aimee_Mann.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "D-A-D",
+      "has_synced": false,
+      "path": "select/04_True_Believer_D-A-D.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "D‐A‐D",
+      "has_synced": false,
+      "path": "select/05_True_Believer_D‐A‐D.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Hoobastank",
+      "has_synced": true,
+      "path": "select/06_True_Believer_Hoobastank.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/07_True_Believer_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Beast in Black",
+      "has_synced": true,
+      "path": "select/08_True_Believer_Beast_in_Black.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Brett James",
+      "has_synced": false,
+      "path": "select/09_True_Believer_Brett_James.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Lillian Axe",
+      "has_synced": false,
+      "path": "select/10_True_Believer_Lillian_Axe.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "True Believer - 2009 - Remaster;",
+      "artist": "D-A-D",
+      "has_synced": false,
+      "path": "select/11_True_Believer_-_2009_-_Remaster;_D-A-D.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "True Believer (2009 - Remaster)",
+      "artist": "D-A-D",
+      "has_synced": false,
+      "path": "select/12_True_Believer_(2009_-_Remaster)_D-A-D.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Dragonette",
+      "has_synced": false,
+      "path": "select/13_True_Believer_Dragonette.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Lionville",
+      "has_synced": false,
+      "path": "select/14_True_Believer_Lionville.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Avicii feat. Chris Martin",
+      "has_synced": true,
+      "path": "select/15_True_Believer_Avicii_feat._Chris_Martin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Clipping.",
+      "has_synced": true,
+      "path": "select/16_True_Believer_Clipping..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "E-Type",
+      "has_synced": false,
+      "path": "select/17_True_Believer_E-Type.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "True Believer (Extended Version)",
+      "artist": "E-Type",
+      "has_synced": false,
+      "path": "select/18_True_Believer_(Extended_Version)_E-Type.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/19_True_Believer_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/20_True_Believer_Avicii.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "True Believer",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/pl_01_True_Believer_Avicii.txt"
+    }
+  ]
+}
